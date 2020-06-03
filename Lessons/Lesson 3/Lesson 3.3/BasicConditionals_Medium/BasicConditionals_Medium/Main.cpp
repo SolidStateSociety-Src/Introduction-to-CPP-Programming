@@ -78,7 +78,7 @@ public:
 	/**** Find if the user-inputed number is a leap year ****/
 	void basicLeapYear()
 	{
-		int	x;
+		int x;
 
 		cout << "**BasicLeapYear()**" << endl;
 
@@ -107,7 +107,7 @@ public:
 	/**** Find the absolute value of the user-inputed number (could be of any type) ****/
 	void basicAbsoluteValue()
 	{
-		int	x;
+		int x;
 
 		cout << "**BasicAbsoluteValue()**" << endl;
 
@@ -117,7 +117,7 @@ public:
 		/** If the number is negative, multiply by a negative number **/
 		if (x < 0)
 		{
-			x = x * -1;
+			x *= -1;
 		}
 
 		cout << "| " << x << " | = " << x << endl;
