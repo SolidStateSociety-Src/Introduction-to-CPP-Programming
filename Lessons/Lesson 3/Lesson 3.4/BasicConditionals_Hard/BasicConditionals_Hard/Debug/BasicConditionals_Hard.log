@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Solid State Society\Lessons\Lessons\Lesson 3\Lesson 3.4\BasicConditionals_Hard\BasicConditionals_Hard\Main.cpp(38,15): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+D:\Solid State Society\Lessons\Lessons\Lesson 3\Lesson 3.4\BasicConditionals_Hard\BasicConditionals_Hard\Main.cpp(47,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Solid State Society\Lessons\Lessons\Lesson 3\Lesson 3.4\BasicConditionals_Hard\BasicConditionals_Hard\Main.cpp(48,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  BasicConditionals_Hard.vcxproj -> D:\Solid State Society\Lessons\Lessons\Lesson 3\Lesson 3.4\BasicConditionals_Hard\Debug\BasicConditionals_Hard.exe
